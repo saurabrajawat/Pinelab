@@ -106,6 +106,7 @@ public class Element
 		testConfig.logComment("Clicked on " + description);
 	}
 	
+
 	/**
 	 * Clicks on element using JavaScript
 	 * 
